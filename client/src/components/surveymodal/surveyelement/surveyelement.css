@@ -1,0 +1,30 @@
+.survey-container {
+    /* height: 60vh !important; */
+    /* width: 100%; */
+}
+
+.question-number {
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    font-size: 15;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 2em;
+    height: 2em;
+}
+
+.question-area {
+    display: flex;
+    flex-direction: 'row';
+    font-size: 25px;
+    font-family: apercu-pro, sans-serif !important
+}

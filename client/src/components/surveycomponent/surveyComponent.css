@@ -1,0 +1,14 @@
+.component-container {
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    /* margin-top: 20px; */
+}
+
+.component-container h1 {
+    color: var(--primary);
+}
+
+.component-container p {
+    text-align: justify;
+}

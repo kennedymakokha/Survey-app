@@ -1,0 +1,58 @@
+.home-container {
+    /* /* height: calc(100vh - 0px); */
+    /* background-color: yellow; * */
+    background-image: url('./../images/backside.jpg');
+    height: 99vh;
+    background-color: #a3aeb9;
+    background-blend-mode: multiply;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    padding-top: 5px;
+}
+
+.left {
+    display: none
+}
+
+.home-pane-container {
+    width: 100%;
+    /* max-width: 50%; */
+    /* height: 99vh; */
+    /* background-color: yellow; */
+}
+
+.pane {
+    padding: 20px;
+   
+}
+
+.home {
+    height: 60vh;
+    width: 100%;
+   
+}
+
+.rowy {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titleCap {
+    font-size: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: var(--primary)
+}
+
+@media screen and (min-width: 800px) {
+    .left {
+        display: block;
+      
+    }
+    .home-pane-container {
+        width: 49.899%;
+        
+    }
+}

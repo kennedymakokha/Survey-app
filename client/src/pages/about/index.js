@@ -1,0 +1,25 @@
+import React, { Component } from 'react';
+
+class About extends Component {
+    render() {
+        return (
+            <div className="container">
+                <div className="row">
+                    <h1 className="text-center">About  Page</h1>
+                    <p>loremLorem ipsum dolor sit amet, consectetur adipiscing elit. Si est nihil nisi corpus, summa erunt illa: valitudo, vacuitas doloris, pulchritudo, cetera. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Sed quid sentiat, non videtis. Nam si pravitatem inminutionemque corporis propter se fugiendam putamus, cur non etiam, ac fortasse magis, propter se formae dignitatem sequamur? Iam doloris medicamenta illa Epicurea tamquam de narthecio proment: Si gravis, brevis; Duo Reges: constructio interrete. Quocirca eodem modo sapiens erit affectus erga amicum, quo in se ipsum, quosque labores propter suam voluptatem susciperet, eosdem suscipiet propter amici voluptatem. Et quidem illud ipsum non nimium probo et tantum patior, philosophum loqui de cupiditatibus finiendis. Nam et ille apud Trabeam voluptatem animi nimiam laetitiam dicit eandem, quam ille Caecilianus, qui omnibus laetitiis laetum esse se narrat. Hoc est non modo cor non habere, sed ne palatum quidem. Nam et complectitur verbis, quod vult, et dicit plane, quod intellegam;
+
+                        Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; Quia, cum a Zenone, inquam, hoc magnifice tamquam ex oraculo editur: Virtus ad beate vivendum se ipsa contenta est, et Quare? Itaque ne iustitiam quidem recte quis dixerit per se ipsam optabilem, sed quia iucunditatis vel plurimum afferat. Ut optime, secundum naturam affectum esse possit. In sapientem solum cadit, isque finis bonorum, ut ab ipsis Stoicis scriptum videmus, a Xenocrate atque ab Aristotele constitutus est. Hanc se tuus Epicurus omnino ignorare dicit quam aut qualem esse velint qui honestate summum bonum metiantur. De vacuitate doloris eadem sententia erit. Is cum arderet podagrae doloribus visitassetque hominem Charmides Epicureus perfamiliaris et tristis exiret, Mane, quaeso, inquit, Charmide noster; Et hanc quidem primam exigam a te operam, ut audias me quae a te dicta sunt refellentem. Iam quae corporis sunt, ea nec auctoritatem cum animi partibus, comparandam et cognitionem habent faciliorem. Quibus autem in rebus tanta obscuratio non fit, fieri tamen potest, ut id ipsum, quod interest, non sit magnum. Crassus fuit, qui tamen solebat uti suo bono, ut hodie est noster Pompeius, cui recte facienti gratia est habenda; In eo autem voluptas omnium Latine loquentium more ponitur, cum percipitur ea, quae sensum aliquem moveat, iucunditas. Quasi ego id curem, quid ille aiat aut neget. Qua ex cognitione facilior facta est investigatio rerum occultissimarum.
+
+                        Nec vero audiendus Hieronymus, cui summum bonum est idem, quod vos interdum vel potius nimium saepe dicitis, nihil dolere. Eam si varietatem diceres, intellegerem, ut etiam non dicente te intellego; Quae iam oratio non a philosopho aliquo, sed a censore opprimenda est. Nam prius a se poterit quisque discedere quam appetitum earum rerum, quae sibi conducant, amittere. Quae quo sunt excelsiores, eo dant clariora indicia naturae. Ne discipulum abducam, times. Atqui, inquit, si Stoicis concedis ut virtus sola, si adsit vitam efficiat beatam, concedis etiam Peripateticis. At eum nihili facit; Istius modi autem res dicere ornate velle puerile est, plane autem et perspicue expedire posse docti et intellegentis viri. At enim hic etiam dolore.
+
+                        Cenasti in vita numquam bene, cum omnia in ista Consumis squilla atque acupensere cum decimano. Tamen aberramus a proposito, et, ne longius, prorsus, inquam, Piso, si ista mala sunt, placet. In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret. Cum vero paulum processerunt, lusionibus vel laboriosis delectantur, ut ne verberibus quidem deterreri possint, eaque cupiditas agendi aliquid adolescit una cum aetatibus. Quae cum magnifice primo dici viderentur, considerata minus probabantur. Virtutibus igitur rectissime mihi videris et ad consuetudinem nostrae orationis vitia posuisse contraria. Quem si tenueris, non modo meum Ciceronem, sed etiam me ipsum abducas licebit. An dubium est, quin virtus ita maximam partem optineat in rebus humanis, ut reliquas obruat? Non dolere, inquam, istud quam vim habeat postea videro; Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Inde sermone vario sex illa a Dipylo stadia confecimus. In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt. Quae si potest singula consolando levare, universa quo modo sustinebit? Quid, si non sensus modo ei sit datus, verum etiam animus hominis?
+
+                    </p>
+                </div>
+
+            </div>
+        );
+    }
+}
+
+export default About;
